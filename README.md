@@ -1,1 +1,1 @@
-# GoldMetal 
+# GoldMetal Study
